@@ -1,0 +1,51 @@
+name: Deploy
+
+on:
+  push:
+    branches: [ master ]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Spellcheck
+        uses: rojopolis/spellcheck-github-actions@0.13.0
+        with:
+         config_path: config/.spellcheck.yml
+
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Build with Jekyll
+      run: |
+        docker run \
+        -v ${{ github.workspace }}:/srv/jekyll -v ${{ github.workspace }}/_site:/srv/jekyll/_site \
+        jekyll/builder:latest /bin/bash -c "chmod -R 777 /srv/jekyll && jekyll build --future"
+    - uses: actions/upload-artifact@v2
+      with:
+        name: website
+        path: _site
+
+  deploy:
+    needs: [build]
+    runs-on: ubuntu-latest
+    steps:
+    - name: Download a Build Artifact
+      uses: actions/download-artifact@v2.0.9
+      with:
+        name: website
+        path: _site
+    - name: Copy folder content recursively to remote (clean directory)
+      uses: garygrossgarten/github-action-scp@release
+      with:
+        local: _site
+        remote: /var/www/steindorf.j-linn.de/
+        host: ${{ secrets.HOST }}
+        username: ${{ secrets.USERNAME }}
+        privateKey: ${{ secrets.KEY}}
+        port: ${{ secrets.PORT}}
+        rmRemote: true
+        dotfiles: true
+

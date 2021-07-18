@@ -1,0 +1,10 @@
+{
+  "spellcheck": false,
+  "foldHeading": true,
+  "showLineNumber": true,
+  "attachmentFolderPath": "assets",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "_notes",
+  "alwaysUpdateLinks": true,
+  "promptDelete": false
+}
