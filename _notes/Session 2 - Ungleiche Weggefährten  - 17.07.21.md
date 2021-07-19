@@ -28,14 +28,14 @@ Weiter nach oben zu [[Stolzfuß]]
 --> Verwandlung in Kaninchen -.- (Zeug hinlegen)
 --> Perter bekommt Stab gegen Goblins (???)
 
---> Agarot lässt noch ein Ei auf dem Abort da. 
+--> [[Agarot]] lässt noch ein Ei auf dem Abort da. 
 
 
-## Zurück in Steindorf
+## Zurück in [[Steindorf]]
 
 --> Rückweg
 --> Kappen Seil über Fluss
---> Einsammeln und Agarot zurück geben (9m Seil)
+--> Einsammeln und [[Agarot]] zurück geben (9m Seil)
 --> 
 
 

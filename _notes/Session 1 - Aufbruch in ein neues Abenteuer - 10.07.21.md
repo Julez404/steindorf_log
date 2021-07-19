@@ -22,7 +22,7 @@ Ich ging zu meinem neu gefundenen Abenteurerkollegen und erfragte ob diese inter
 
 ---
 
-## Ankunft in Steindorf
+## Ankunft in [[Steindorf]]
 
 Beim betreten von [[Steindorf]] viel uns sofort auf wie seltsam verlassen es war. Kein trubel auf der Straße, die Mühle kurz auserhalb der Stadt steht still, keine geräusche aus den Häusern des Schmiedts oder des Schreiners.
 
@@ -45,7 +45,7 @@ Wir machten uns weiter zum Dorfkern, dort treffen wir auf einen Handelsposten
 --> Aufbruch Richtung Norden
 --> Brücke und Steil
 --> Goblin hinterhalt.
-	--> Kallista stößt zu uns.
+	--> [[Kallista]] stößt zu uns.
 --> Rasten
 --> Gelangen zum, Turm
 
@@ -66,7 +66,7 @@ Etwas enttäuscht darüber das ich mein Handwerkliches geschick nicht zeigen kon
 
 Von außen lies sich nicht erkennen was in dem Turm vor sich geht.
 Wir machten uns weiter zum inneren.
-Agarot öffnete vorsichtig die Tür, was jedoch nicht nötig gewesen wäre.
+[[Agarot]] öffnete vorsichtig die Tür, was jedoch nicht nötig gewesen wäre.
 Wir gelangten direkt in eine kleine Küche.
 Zu meiner verwunderung steht in einer Ecke der Abort. 
 Ein seltsamer Ort um sein geschäfft zu verrichten...
@@ -75,7 +75,7 @@ Wir hatten die Wahl nach oben oder nach unten in den Keller zu gehen.
 
 Wir entschieden uns dafür zuerst in den Keller zu gehen.
 In der Mitte des Kellers steht eine Rüstung, ich fand es zuerst seltsam aber nach näherem begutachten dachte ich mir nichts weiter.
-Agarot entdeckte in der anderen Ecke des Raumes eine Lücke in der Wand.
+[[Agarot]] entdeckte in der anderen Ecke des Raumes eine Lücke in der Wand.
 Ich ging los um danach zu sehen, jedoch erwachte die Rüstung als ich mich ihr näherte zum leben, ich hätte auf mein Gespür hören sollen.
 Nach einem soliden Kampf gegen die Rüstung gelang es uns sie zu überwältigen.
 Im spalt fand ich eine kleine Schatulle. 
@@ -87,10 +87,10 @@ Auf dem Pergament war ein Bild des Eis abgebildet mit der Unterschrift ***Auf de
 Zusätzlich fand sich noch ein kleiner Eisenschlüssel in der Schatulle. 
 Ich steckte mir alles ein und wir machten uns auf den Weg noch oben. Wir möchten ja noch vorran kommen.
 
-Perter und Kallista nahmen sich beide jeweils noch einen Tasse Tee welcher in der Küche stand.
+Perter und [[Kallista]] nahmen sich beide jeweils noch einen Tasse Tee welcher in der Küche stand.
 Pfefferminz, widerlichte geschmackssorte. 
 
-Ich ging mit Agarot vorraus nach oben, die Teeschlürfer schlossen sich uns daraufhin an.
+Ich ging mit [[Agarot]] vorraus nach oben, die Teeschlürfer schlossen sich uns daraufhin an.
 Im 1. Stock des Turm zeigte sich ein länglicher Gang, alles Roch nach einer Falle.
 Ich dachte es könnte sich um eine Druckplatte im Boden handeln.
 Ich versuchte die potentielle Druckplatte mit meinem Schild auszulösen indem ich es quer durch den Flut stoße.
@@ -116,13 +116,13 @@ Ich muss zugeben, er kann mehr als nur über sein Geld reden.
 Um den nächsten Knick herrum zeigte sich dichter Nebel auf dem Boden.
 Am Ende des Raumes zeigte sich diesmal eine Treppe statt eines weiteren Knicks.
 Ein Ende scheint also in sicht zu sein.
-Diesmal machte Agarot den ersten Schritt.
-In dem Moment als Agarot den Nebel berührte, wurde er Blind. 
+Diesmal machte [[Agarot]] den ersten Schritt.
+In dem Moment als [[Agarot]] den Nebel berührte, wurde er Blind. 
 Ach ja und er hing auf einemal an der Decke.
 Wir navigierten ihn über unsere Stimmen, jedoch kam er in der Mitte des Raumes nicht mehr weiter.
 Es schien ihm eine unsichbare Wand aufzuhalten.
 Mit einem Schuss meiner Armbrust durch den Raum konnte ich zumindest feststellen, dass es sich nicht um eine Art von Glaswand handelt.
 Ich dachte das ich es Schaffen könnte mit Anlauf die Position der **Wand** zu überspringen.
 Außer eine Potentiell gebrochene Nase hat mir das aber nichts eingebracht.
-Perter brachte den finalen Denkansatz, er schlug vor es Verkehrt herum anzugehen, woraufhin Agarot Rückwärts durch die Wand gehen konnte. 
+Perter brachte den finalen Denkansatz, er schlug vor es Verkehrt herum anzugehen, woraufhin [[[[Agarot]]|[[Agar]]ot]] Rückwärts durch die Wand gehen konnte. 
 Daraufhin gelang es uns allen den Nebel zu durchqueren.
